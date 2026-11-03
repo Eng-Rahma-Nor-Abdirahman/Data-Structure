@@ -2,78 +2,31 @@
 
 ## About This Repository
 
-Welcome to my **Data Structure** repository. This repository contains my Java programming assignments, practical exercises, and university coursework.
+This repository is dedicated to submitting and organizing my university exercises and assignments related to Java programming and Data Structures.
 
-It is designed to organize my assignments, practice programming concepts, and track my progress in Java and Data Structures.
+It serves as a central place to store my coursework, practical exercises, and programming assignments throughout the semester.
 
 ## Technologies Used
 
 - Java
 - IntelliJ IDEA
-- Git
-- GitHub
+- Git and GitHub
 
-## Repository Structure
+## Purpose
 
-```text
-Data-Structure/
-├── src/
-│   ├── BMI.java
-│   ├── Course.java
-│   └── Loan.java
-│
-├── UniversityLecturerSalaryManagement/
-│   └── src/
-│       └── lecture.java
-│
-└── README.md
-```
+The purpose of this repository is to:
 
-## Assignments and Projects
-
-### 1. BMI Calculator
-A Java program for practicing Body Mass Index (BMI) calculations.
-
-### 2. Course
-A Java program for practicing classes, objects, and course-related information.
-
-### 3. Loan
-A Java program for practicing loan calculations and object-oriented programming concepts.
-
-### 4. University Lecturer Salary Management
-A Java project focused on managing university lecturer salary information.
-
-## Learning Objectives
-
-- Strengthen Java programming skills.
-- Understand classes and objects.
-- Practice object-oriented programming.
-- Develop problem-solving skills.
-- Learn and apply data structures and algorithms.
-- Organize and submit assignments using Git and GitHub.
-
-## How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/Eng-Rahma-Nor/Data-Structure.git
-   ```
-
-2. Open the project in IntelliJ IDEA.
-3. Open the Java file you want to run.
-4. Run the program from the IDE.
+- Submit university exercises and assignments.
+- Practice Java programming and data structures.
+- Organize coursework in one place.
+- Track my learning progress throughout the semester.
 
 ## Author
 
 **Rahma Nor**
 
-GitHub: [Eng-Rahma-Nor](https://github.com/Eng-Rahma-Nor)
-
-## Purpose
-
-This repository is maintained for educational purposes, university assignment submissions, and continuous learning in Java programming and data structures.
+GitHub: [@Eng-Rahma-Nor](https://github.com/Eng-Rahma-Nor)
 
 ---
 
-*Learning, practicing, and improving one assignment at a time.*
+*University exercises, assignments, and continuous learning.*
