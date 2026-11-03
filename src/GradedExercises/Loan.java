@@ -1,3 +1,5 @@
+package GradedExercises;
+
 import java.util.Date;
 
 public class Loan {

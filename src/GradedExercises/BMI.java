@@ -1,3 +1,5 @@
+package GradedExercises;
+
 public class BMI {
     private String name;
     private int age;
